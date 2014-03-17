@@ -36,4 +36,5 @@ The **package.json** file defines the name of our NodeJS app and any dependencie
 * [node-oauth](https://github.com/ciaranj/node-oauth) : A simple oauth API for Node.js
 * [underscore](http://underscorejs.org/) : functional programming helper w/o extending any built-in objects.
 * [moment](http://momentjs.com/)  : javascript date library for parsing, validating, manipulating and forming dates.
-
+* [nconf](https://github.com/flatiron/nconf) : node.js configuration with files, environment variables, command-line arguments, and atomic object merging
+* [connect-mongo](https://github.com/kcbanner/connect-mongo) : MongoDB session store for Express/Connect
