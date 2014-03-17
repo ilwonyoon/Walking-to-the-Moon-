@@ -1,6 +1,16 @@
 Walkingto the Moon
 ====================
 ###ExpressJS w/ Passport Facebook + Moves.API
+For Moves API authentication, [shakes](https://github.com/jonezy/shakes) library for Node.js is used here.
+To connect Moves API, you need to create an app from [https://dev.moves-app.com/](Moves API Dev)
+**alert** Once you created an app, you need to provide valid url for your project and redirect url
+For instance, 
+
+* url : http://localhost:3000
+* redirect url : http://localhost:3000/auth/token
+
+Don't forget to include  "**http://**" in your url, otherwise it will say that it's not valid url.
+
 
 #### Pacakge.json
 
